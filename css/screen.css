@@ -211,3 +211,11 @@ label {
 input[type="text"],
 input[type="email"],
 input[type="password"],
+textarea {
+  background-color: #f4f4f4; /* Light gray background */
+  border: 1px solid #ddd; /* Light gray border */
+  padding: 10px; /* Padding for spacing */
+  margin-bottom: 15px; /* Spacing between input fields */
+  width: 100%; /* Full width */
+  box-sizing: border-box; /* Include padding and border in width */
+}
