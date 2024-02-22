@@ -219,3 +219,8 @@ textarea {
   width: 100%; /* Full width */
   box-sizing: border-box; /* Include padding and border in width */
 }
+
+/* Padding and white space */
+body {
+  padding: 20px; /* Add padding to the body */
+}
